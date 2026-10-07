@@ -1,0 +1,10 @@
+{
+  "name": "check-before-you-send",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evidence-based crypto risk checking prototype.",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {}
+}
